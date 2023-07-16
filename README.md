@@ -68,6 +68,7 @@ Before developing/deploying the API, make sure you have the following prerequisi
 Here are some references that I found helpful and also want to give credit to:
 
 - https://dynobase.dev/dynamodb-aws-cdk/
+- https://github.com/Durgaprasad-Budhwani/rust-based-aws-lambda-example
 - https://www.youtube.com/watch?v=uhE3Z2lGGXQ
 - https://www.udemy.com/course/aws-lambda-serverless/
 - https://bobbyhadz.com/blog/aws-cdk-api-gateway-example
