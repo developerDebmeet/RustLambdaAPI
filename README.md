@@ -9,7 +9,7 @@ This repository contains a RESTful API implemented in Rust, which performs Creat
 ---
 
 ## Development
-1. Write/Edit Rust code int eh *src/bin* folder
+1. Write/Edit Rust code in the *src/bin* folder
 
 2. Format the Rust code using :
     ```bash
